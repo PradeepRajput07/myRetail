@@ -1,8 +1,9 @@
 Steps to run the application
 
 1. Download the application.
-2. Run the command: java -jar <download-file-name>
+2. Run the command: java -jar myretail-0.0.1-SNAPSHOT.jar
 3. The application will run on port 8085
+4. Hit the url: http://localhost:8085/products/13860428
 
 Testing the APi functionality:
 1. Use the browser or POSTMAN to check the api functionality.
