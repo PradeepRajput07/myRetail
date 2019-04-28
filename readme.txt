@@ -1,7 +1,7 @@
 Steps to run the application
 
 1. Download the application.
-2. Run the command: mvn clean install
+2. Run the command: java -jar <download-file-name>
 3. The application will run on port 8085
 
 Testing the APi functionality:
